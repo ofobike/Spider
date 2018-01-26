@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-'''
-@author: Jay
-@file: tieba.py
-@time: 2018/1/23 21:33
-'''
 import urllib
 import urllib2
 from lxml import etree
